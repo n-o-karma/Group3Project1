@@ -1,6 +1,7 @@
 # Adding config.py file.
 api_keys.py
 zillowzipcodedata.csv
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
