@@ -13,7 +13,7 @@ Go to https://www.zillow.com/research/data/ , find Home Values: ZHVI at the midd
 
 The rest of the CSVs used in the paroject are located in the Resources folder.
 
-You will also need a Geoapify API key for the maps to generate. 
+You will also need a Geoapify API key for the maps to generate. The code that uses the key calls for a file named 'api_keys.py' within the Notebooks directory.
 
 Resources:
 Philadelphia, PA population: https://www.census.gov/quickfacts/fact/table/philadelphiacitypennsylvania/PST04522
