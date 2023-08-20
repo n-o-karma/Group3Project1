@@ -1,7 +1,7 @@
 # Group3Project1
 
 Introduction:
-Please consider 'data_acq_and_cleanup.ipynb' our code submission for this assignment. The presentation notebook is titled 'Presentation Outline & Formatting.ipynb'.
+Please consider 'data_acq_and_cleanup.ipynb' our code submission for this assignment. The results are displayed in 'results_nb.ipynb' The presentation notebook is titled 'Presentation Outline & Formatting.ipynb'.
 
 Summary:
 This Python project cleans and analyzes rental prices, housing prices, housing market volume, and crime incident data from Philadelphia, PA over a timeframe of 7 years. The datasets were reviewed and compared to find a relationship between the pricing and crime rates sorted by zip codes.
